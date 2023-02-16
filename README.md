@@ -1,2 +1,8 @@
-# sql_injection_demonstration
-SQL Injection Demonstration
+SQL Injection Demo
+==========
+
+Execute Server
+----------
+```
+python main.py
+```
